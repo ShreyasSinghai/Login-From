@@ -1,0 +1,17 @@
+.design{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+input[type=text]{
+    border-radius: 10px;
+}
+input[type=password]{
+    border-radius: 10px;
+}
+select{
+    border-radius: 10px;
+}
+input[type=submit]{
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
